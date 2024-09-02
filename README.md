@@ -6,7 +6,9 @@ Proyecto para la materia: Procesamiento digital de imagenes.
 Para la ejecución se recomienda hacerlo desde terminal:
 ~python HSV_Range.py "Camera_Index"
 Donde Camera_Index sera un numero entero, por lo general para uasr la primer camara en el entero "0", para una camara diferente el incremento es de uno.
+
 Ejemplos:
+
 ~python HSV_Range.py 0
 ~python HSV_Range.py 1
 
